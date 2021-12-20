@@ -1,0 +1,8 @@
+Net 70 s-a-1
+Net 73 s-a-0
+Net 26 s-a-1
+Net 92 s-a-0
+Net 38 s-a-0
+Net 46 s-a-1
+Net 3 s-a-1
+Net 68 s-a-0

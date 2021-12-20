@@ -1,0 +1,10 @@
+files/s27.txt
+Net 16 s-a-0 - X0X10X0
+Net 10 s-a-1 - X00XXX0
+Net 12 s-a-0 - 1XXX1XX
+Net 18 s-a-1 - 11X101X
+Net 17 s-a-1 - 10X00X0
+Net 13 s-a-0 - 1XXX1XX
+Net 6 s-a-1 - X0X10X0
+Net 11 s-a-0 - X10XXXX
+
